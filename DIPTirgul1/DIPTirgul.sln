@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPTirgul3", "..\DIPTirgul3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPTirgul4", "..\DIPTirgul4\DIPTirgul4.csproj", "{DFA9CA7B-9CD8-4BFE-A1AF-9B9DE51D963B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DIPTirgul", "DIPTirgul", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,12 +36,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{F57D0CD2-4197-4465-B7D5-1D23A67DD19E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{CD52AD9B-0B00-48A8-9890-252E95196EF2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{453CF7A4-C5E1-4B43-A4EF-EE7DF937C570} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{DFA9CA7B-9CD8-4BFE-A1AF-9B9DE51D963B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0DC449CE-8FEB-4284-994A-77A2C574FD89}
